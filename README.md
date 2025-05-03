@@ -2,11 +2,8 @@
 
 :man_technologist: Я инженер по тестированию с опытом создания автотестов.
 
-Ниже представлены три моих дипломных проекта, которые я завершил в рамках обучения на курсе "Автоматизатор тестирования на Python":
-
-- [`Diplom_1`](https://github.com/blzvt3/Diplom_1) - Unit-тесты
-- [`Diplom_2`](https://github.com/blzvt3/Diplom_1) - API-тесты
-- [`Diplom_3`](https://github.com/blzvt3/Diplom_1) - UI-тесты
+Здесь представлены три моих дипломных проекта, которые я завершил в рамках обучения на курсе "Автоматизатор тестирования на Python":
+[`Unit-тесты`](https://github.com/blzvt3/Diplom_1) - [`API-тесты`](https://github.com/blzvt3/Diplom_2) - [`UI-тесты`](https://github.com/blzvt3/Diplom_3)
 
 ---
 
